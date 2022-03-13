@@ -1,0 +1,9 @@
+{
+	"ptz": {
+		"ip": "INSERT_IP"
+	},
+	"position": {
+		"pan": "0x8000",
+		"tilt": "0x1200"
+	}
+}
